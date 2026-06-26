@@ -1,12 +1,23 @@
+# Hi there, I'm Anju Chauhan
 
+##  Python Full Stack Developer
 
-👋 Hi, I'm Anju CHauhan!
+I enjoy building web applications using Django and React while continuously improving my problem-solving and software engineering skills.
 
-💻 **Full Stack Developer** specializing in Python, React, and Next.js.
+###  Tech Stack
+- Python
+- Django & Django REST Framework
+- React.js
+- JavaScript
+- HTML & CSS
+- MySQL
+- Git & GitHub
+- Azure DevOps
 
-🚀 Currently working on exciting projects involving Django Rest Framework, Prisma, TypeScript, and SQL.
+###  Currently Learning
+- Data Structures & Algorithms
+- System Design
 
-🌟 Passionate about exploring new technologies and creating innovative solutions.
-
-
-
+###  Connect with me
+- GitHub: github.com/yourusername
+- LinkedIn: https://www.linkedin.com/in/anju-chauhan-04b9992b8/
